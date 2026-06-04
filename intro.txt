@@ -1,0 +1,11 @@
+My Frontend Project
+
+Name: Noor Mohammed
+
+Technologies:
+- HTML
+- Git
+- GitHub
+- AWS
+
+This is a sample file created for Git practice.
